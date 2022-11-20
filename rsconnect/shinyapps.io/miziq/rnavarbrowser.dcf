@@ -1,0 +1,11 @@
+name: rnavarbrowser
+title:
+username:
+account: miziq
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7677973
+bundleId: 6531980
+url: https://miziq.shinyapps.io/rnavarbrowser/
+when: 1668847885.65656
+lastSyncTime: 1668847885.65657
